@@ -1,0 +1,25 @@
+{
+  "name": "conways-game-of-life",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape *test.js ./test-archive/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timg456789/conways-game-of-life.git"
+  },
+  "author": "timothy gonzalez",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/timg456789/conways-game-of-life/issues"
+  },
+  "homepage": "https://github.com/timg456789/conways-game-of-life#readme",
+  "devDependencies": {
+    "tape": "^4.5.1"
+  },
+  "dependencies": {
+    "hash.js": "^1.0.3"
+  }
+}
